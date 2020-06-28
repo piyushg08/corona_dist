@@ -1,0 +1,15 @@
+#covid::before{
+  content: "";
+  background: url('1.jpg') no-repeat center center/cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.7;
+}
+h1{
+  align-items: center;
+  text-align: center;
+  font-size: 4rem;
+  color: #227f22;
+}
